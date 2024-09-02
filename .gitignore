@@ -1,7 +1,7 @@
 .vscode
-tools/deploy.py
-tools/deploy.sh
-tools/release.py
-tools/test.py
-out/*
-logs/*
+/tools/deploy.py
+/tools/deploy.sh
+/tools/release.py
+/tools/test.py
+/out/*
+/logs/*
