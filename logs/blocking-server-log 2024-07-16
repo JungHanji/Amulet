@@ -1,0 +1,985 @@
+12:15:18 [INITED] -------------------------------->
+12:15:18 [INFO] Log started on 2024-07-16
+
+12:15:18 [INITED][Blocing server] Server inited
+12:15:18 [CALLING][Blocing server][Startup] Binding...
+12:15:18 [INFO][Blocing server][Startup] Success!
+12:15:18 [CALLING][Blocing server][Startup] Start to listen clients (1)
+12:15:18 [INFO][Blocing server][Startup] Success!
+12:15:18 [INITED][Blocing server][Startup] Start to accepting a clients
+12:15:18 [CALLING][Blocing server][Startup][Acception cycle] Trying to accept a client #0
+12:15:25 [INFO][Blocing server][Startup][Acception cycle] Success!
+12:15:25 [CALLING][Blocing server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:15:25 [INITED][Blocing server][Runiter] Starting for-cycle for all clients
+12:15:25 [CALLING][Blocing server][Runiter] Starting Cycle for client #0
+12:15:25 [INITED][Blocing server][Runiter][Cycle] Trying to get a reference to client #0
+12:15:25 [CALLING][Blocing server][Runiter][Cycle] Trying to receive a request from client #0
+12:15:25 [WARNING][Blocing server][Runiter][Cycle] Failed to receive a request
+12:15:25 [ERROR][Blocing server][Runiter] Failed to call cycle function
+12:15:25 [INFO][Blocing server][Stop] Stopping all clients
+12:15:25 [INFO][Blocing server][Stop] Closing main socket
+12:15:25 [INFO] Server stopped
+12:19:32 [INITED] -------------------------------->
+12:19:32 [INFO] Log started on 2024-07-16
+
+12:19:32 [INITED][Blocking server] Server inited
+12:19:32 [CALLING][Blocking server][Startup] Binding...
+12:19:32 [INFO][Blocking server][Startup] Success!
+12:19:32 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:19:32 [INFO][Blocking server][Startup] Success!
+12:19:32 [INITED][Blocking server][Startup] Start to accepting a clients
+12:19:32 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:19:40 [INFO][Blocking server][Startup][Acception cycle] Success!
+12:19:40 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:19:40 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:19:40 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:19:40 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:19:40 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:19:40 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:19:40 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:19:40 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:19:40 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:19:40 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:19:40 [INFO][Blocking server][Stop] Stopping all clients
+12:19:40 [INFO][Blocking server][Stop] Closing main socket
+12:19:40 [INFO] Server stopped
+12:23:35 [INITED] -------------------------------->
+12:23:35 [INFO] Log started on 2024-07-16
+
+12:23:35 [INITED][Blocking server] Server inited
+12:23:35 [CALLING][Blocking server][Startup] Binding...
+12:23:35 [INFO][Blocking server][Startup] Success!
+12:23:35 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:23:35 [INFO][Blocking server][Startup] Success!
+12:23:35 [INITED][Blocking server][Startup] Start to accepting a clients
+12:23:35 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:23:39 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address :0 connected
+12:23:39 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:23:39 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:23:39 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:23:39 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:23:39 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:23:39 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:23:39 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:23:39 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:23:39 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:23:39 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:23:39 [INFO][Blocking server][Stop] Stopping all clients
+12:23:39 [INFO][Blocking server][Stop] Closing main socket
+12:23:39 [INFO] Server stopped
+12:29:33 [INITED] -------------------------------->
+12:29:33 [INFO] Log started on 2024-07-16
+
+12:29:33 [INITED][Blocking server] Server inited
+12:29:33 [CALLING][Blocking server][Startup] Binding...
+12:29:33 [INFO][Blocking server][Startup] Success!
+12:29:33 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:29:33 [INFO][Blocking server][Startup] Success!
+12:29:33 [INITED][Blocking server][Startup] Start to accepting a clients
+12:29:33 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:29:37 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 0.0.0.0:0 connected
+12:29:37 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:29:37 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:29:37 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:29:37 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:29:37 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:29:37 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:29:37 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:29:37 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:29:37 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:29:37 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:29:37 [INFO][Blocking server][Stop] Stopping all clients
+12:29:37 [INFO][Blocking server][Stop] Closing main socket
+12:29:37 [INFO] Server stopped
+12:30:13 [INITED] -------------------------------->
+12:30:13 [INFO] Log started on 2024-07-16
+
+12:30:13 [INITED][Blocking server] Server inited
+12:30:13 [CALLING][Blocking server][Startup] Binding...
+12:30:13 [INFO][Blocking server][Startup] Success!
+12:30:13 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:30:13 [INFO][Blocking server][Startup] Success!
+12:30:13 [INITED][Blocking server][Startup] Start to accepting a clients
+12:30:13 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:30:16 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 0.0.0.0:0 connected
+12:30:16 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:30:16 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:30:16 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:30:16 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:30:16 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:30:16 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:30:16 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:30:16 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:30:16 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:30:16 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:30:16 [INFO][Blocking server][Stop] Stopping all clients
+12:30:16 [INFO][Blocking server][Stop] Closing main socket
+12:30:16 [INFO] Server stopped
+12:31:04 [INITED] -------------------------------->
+12:31:04 [INFO] Log started on 2024-07-16
+
+12:31:04 [INITED][Blocking server] Server inited
+12:31:04 [CALLING][Blocking server][Startup] Binding...
+12:31:04 [INFO][Blocking server][Startup] Success!
+12:31:04 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:31:04 [INFO][Blocking server][Startup] Success!
+12:31:04 [INITED][Blocking server][Startup] Start to accepting a clients
+12:31:04 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:31:06 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:53484 connected
+12:31:06 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:31:06 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:31:06 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:31:06 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:31:06 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:31:06 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:31:06 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:31:06 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:31:06 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:31:06 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:31:06 [INFO][Blocking server][Stop] Stopping all clients
+12:31:06 [INFO][Blocking server][Stop] Closing main socket
+12:31:06 [INFO] Server stopped
+12:31:43 [INITED] -------------------------------->
+12:31:43 [INFO] Log started on 2024-07-16
+
+12:31:43 [INITED][Blocking server] Server inited
+12:31:43 [CALLING][Blocking server][Startup] Binding...
+12:31:43 [INFO][Blocking server][Startup] Success!
+12:31:43 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:31:43 [INFO][Blocking server][Startup] Success!
+12:31:43 [INITED][Blocking server][Startup] Start to accepting a clients
+12:31:43 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:31:48 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:39880 connected
+12:31:48 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:31:48 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:31:48 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:31:48 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:31:48 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:31:48 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:31:48 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:31:48 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:31:48 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:31:48 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:31:48 [INFO][Blocking server][Stop] Stopping all clients
+12:31:48 [INFO][Blocking server][Stop] Closing main socket
+12:31:48 [INFO] Server stopped
+12:32:13 [INITED] -------------------------------->
+12:32:13 [INFO] Log started on 2024-07-16
+
+12:32:13 [INITED][Blocking server] Server inited
+12:32:13 [CALLING][Blocking server][Startup] Binding...
+12:32:13 [INFO][Blocking server][Startup] Success!
+12:32:13 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:32:13 [INFO][Blocking server][Startup] Success!
+12:32:13 [INITED][Blocking server][Startup] Start to accepting a clients
+12:32:13 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:32:15 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:37954 connected
+12:32:15 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:32:15 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:32:15 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:32:15 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:32:15 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:32:15 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:32:15 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:32:15 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:32:15 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:32:15 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:32:15 [INFO][Blocking server][Stop] Stopping all clients
+12:32:15 [INFO][Blocking server][Stop] Closing main socket
+12:32:15 [INFO] Server stopped
+12:33:17 [INITED] -------------------------------->
+12:33:17 [INFO] Log started on 2024-07-16
+
+12:33:17 [INITED][Blocking server] Server inited
+12:33:17 [CALLING][Blocking server][Startup] Binding...
+12:33:17 [INFO][Blocking server][Startup] Success!
+12:33:17 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:33:17 [INFO][Blocking server][Startup] Success!
+12:33:17 [INITED][Blocking server][Startup] Start to accepting a clients
+12:33:17 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:33:19 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:50722 connected
+12:33:19 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:33:19 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:33:19 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:33:19 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:33:19 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:33:19 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request
+12:33:19 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:33:19 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:33:19 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:33:19 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:33:19 [INFO][Blocking server][Stop] Stopping all clients
+12:33:19 [INFO][Blocking server][Stop] Closing main socket
+12:33:19 [INFO] Server stopped
+12:34:58 [INITED] -------------------------------->
+12:34:58 [INFO] Log started on 2024-07-16
+
+12:34:58 [INITED][Blocking server] Server inited
+12:34:58 [CALLING][Blocking server][Startup] Binding...
+12:34:58 [INFO][Blocking server][Startup] Success!
+12:34:58 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:34:58 [INFO][Blocking server][Startup] Success!
+12:34:58 [INITED][Blocking server][Startup] Start to accepting a clients
+12:34:58 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:35:01 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:48692 connected
+12:35:01 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:35:01 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:35:01 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:35:01 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:35:01 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:35:01 [WARNING][Blocking server][Runiter][Cycle] Failed to receive a request, because: Invalid socket type
+12:35:01 [CALLING][Blocking server][Runiter][Cycle][Disconnect] Calling callback [onClientDisconnected]
+12:35:01 [INFO][Blocking server][Runiter][Cycle][Disconnect] Closing socket and cleaning client map
+12:35:01 [INFO][Blocking server][Runiter][Cycle][Disconnect] Client 0 is fully disconnected
+12:35:01 [ERROR][Blocking server][Runiter] Failed to call cycle function
+12:35:01 [INFO][Blocking server][Stop] Stopping all clients
+12:35:01 [INFO][Blocking server][Stop] Closing main socket
+12:35:01 [INFO] Server stopped
+12:37:05 [INITED] -------------------------------->
+12:37:05 [INFO] Log started on 2024-07-16
+
+12:37:05 [INITED][Blocking server] Server inited
+12:37:05 [CALLING][Blocking server][Startup] Binding...
+12:37:05 [INFO][Blocking server][Startup] Success!
+12:37:05 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:37:05 [INFO][Blocking server][Startup] Success!
+12:37:05 [INITED][Blocking server][Startup] Start to accepting a clients
+12:37:05 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:37:07 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:56560 connected
+12:37:07 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:37:07 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:37:07 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:37:07 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:37:07 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:37:07 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+12:37:07 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+12:37:07 [INFO][Blocking server][Stop] Stopping all clients
+12:37:07 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+12:37:07 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+12:37:07 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+12:40:57 [INITED] -------------------------------->
+12:40:57 [INFO] Log started on 2024-07-16
+
+12:40:57 [INITED][Blocking server] Server inited
+12:40:57 [CALLING][Blocking server][Startup] Binding...
+12:40:57 [INFO][Blocking server][Startup] Success!
+12:40:57 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:40:57 [INFO][Blocking server][Startup] Success!
+12:40:57 [INITED][Blocking server][Startup] Start to accepting a clients
+12:40:57 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:47:44 [INITED] -------------------------------->
+12:47:44 [INFO] Log started on 2024-07-16
+
+12:47:44 [INITED][Blocking server] Server inited
+12:47:44 [CALLING][Blocking server][Startup] Binding...
+12:47:44 [INFO][Blocking server][Startup] Success!
+12:47:44 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:47:44 [INFO][Blocking server][Startup] Success!
+12:47:44 [INITED][Blocking server][Startup] Start to accepting a clients
+12:47:44 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:47:54 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:57082 connected
+12:47:54 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+12:47:54 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:47:54 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+12:47:54 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:47:54 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:47:54 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+12:47:54 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+12:47:54 [INFO][Blocking server][Stop] Stopping all clients
+12:47:54 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+12:47:54 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+12:47:54 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+12:50:50 [INITED] -------------------------------->
+12:50:50 [INFO] Log started on 2024-07-16
+
+
+12:50:50 [NEW_LAYER] Blocking server
+12:50:50 [INITED][Blocking server] Server inited
+
+12:50:50 [NEW_LAYER][Blocking server] Startup
+12:50:50 [CALLING][Blocking server][Startup] Binding...
+12:50:50 [INFO][Blocking server][Startup] Success!
+12:50:50 [CALLING][Blocking server][Startup] Start to listen clients (1)
+12:50:50 [INFO][Blocking server][Startup] Success!
+12:50:50 [INITED][Blocking server][Startup] Start to accepting a clients
+
+12:50:50 [NEW_LAYER][Blocking server][Startup] Acception cycle
+12:50:50 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+12:50:54 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:41198 connected
+12:50:54 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+12:50:54 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+12:50:54 [LAYER_POPPED][Blocking server][Startup] Startup
+
+12:50:54 [NEW_LAYER][Blocking server] Runiter
+12:50:54 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+12:50:54 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+12:50:54 [NEW_LAYER][Blocking server][Runiter] Cycle
+12:50:54 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+12:50:54 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+12:50:54 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+12:50:54 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+12:50:54 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+12:50:54 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+12:50:54 [NEW_LAYER][Blocking server] Stop
+12:50:54 [INFO][Blocking server][Stop] Stopping all clients
+
+12:50:54 [NEW_LAYER][Blocking server][Stop] Force diconnect
+12:50:54 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+12:50:54 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+12:50:54 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+12:50:54 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:14:50 [INITED] -------------------------------->
+13:14:50 [INFO] Log started on 2024-07-16
+
+
+13:14:50 [NEW_LAYER] Blocking server
+13:14:50 [INITED][Blocking server] Server inited
+
+13:14:50 [NEW_LAYER][Blocking server] Startup
+13:14:50 [CALLING][Blocking server][Startup] Binding...
+13:14:50 [INFO][Blocking server][Startup] Success!
+13:14:50 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:14:50 [INFO][Blocking server][Startup] Success!
+13:14:50 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:14:50 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:14:50 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:14:56 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:47298 connected
+13:14:56 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:14:56 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:14:56 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:14:56 [NEW_LAYER][Blocking server] Runiter
+13:14:56 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:14:56 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:14:56 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:14:56 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:14:56 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:14:56 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:14:56 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:14:56 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:14:56 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:14:56 [NEW_LAYER][Blocking server] Stop
+13:14:56 [INFO][Blocking server][Stop] Stopping all clients
+
+13:14:56 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:14:56 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:14:56 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:14:56 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:14:56 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:14:56 [INFO][Blocking server][Stop] Closing main socket
+
+13:14:56 [LAYER_POPPED][Blocking server][Stop] Stop
+
+13:14:56 [LAYER_POPPED][Blocking server] Blocking server
+13:14:56 [INFO] Server stopped
+13:17:24 [INITED] -------------------------------->
+13:17:24 [INFO] Log started on 2024-07-16
+
+
+13:17:24 [NEW_LAYER] Blocking server
+13:17:24 [INITED][Blocking server] Server inited
+
+13:17:24 [NEW_LAYER][Blocking server] Startup
+13:17:24 [CALLING][Blocking server][Startup] Binding...
+13:17:24 [INFO][Blocking server][Startup] Success!
+13:17:24 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:17:24 [INFO][Blocking server][Startup] Success!
+13:17:24 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:17:24 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:17:24 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:17:26 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:55344 connected
+13:17:26 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:17:26 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:17:26 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:17:26 [NEW_LAYER][Blocking server] Runiter
+13:17:26 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:17:26 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:17:26 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:17:26 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:17:26 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:17:26 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:17:26 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:17:26 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:17:26 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:17:26 [NEW_LAYER][Blocking server] Stop
+13:17:26 [INFO][Blocking server][Stop] Stopping all clients
+
+13:17:26 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:17:26 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:17:26 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:17:26 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:17:26 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:20:14 [INITED] -------------------------------->
+13:20:14 [INFO] Log started on 2024-07-16
+
+
+13:20:14 [NEW_LAYER] Blocking server
+13:20:14 [INITED][Blocking server] Server inited
+
+13:20:14 [NEW_LAYER][Blocking server] Startup
+13:20:14 [CALLING][Blocking server][Startup] Binding...
+13:20:14 [INFO][Blocking server][Startup] Success!
+13:20:14 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:20:14 [INFO][Blocking server][Startup] Success!
+13:20:14 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:20:14 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:20:14 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:20:17 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:45254 connected
+13:20:17 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:20:17 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:20:17 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:20:17 [NEW_LAYER][Blocking server] Runiter
+13:20:17 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:20:17 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:20:17 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:20:17 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:20:17 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:20:17 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:20:17 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:20:17 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:20:17 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:20:17 [NEW_LAYER][Blocking server] Stop
+13:20:17 [INFO][Blocking server][Stop] Stopping all clients
+
+13:20:17 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:20:17 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:20:17 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:20:17 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:20:17 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:23:26 [INITED] -------------------------------->
+13:23:26 [INFO] Log started on 2024-07-16
+
+
+13:23:26 [NEW_LAYER] Blocking server
+13:23:26 [INITED][Blocking server] Server inited
+
+13:23:26 [NEW_LAYER][Blocking server] Startup
+13:23:26 [CALLING][Blocking server][Startup] Binding...
+13:23:26 [INFO][Blocking server][Startup] Success!
+13:23:26 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:23:26 [INFO][Blocking server][Startup] Success!
+13:23:26 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:23:26 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:23:26 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:23:28 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:51802 connected
+13:23:28 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:23:28 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:23:28 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:23:28 [NEW_LAYER][Blocking server] Runiter
+13:23:28 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:23:28 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:23:28 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:23:28 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:23:28 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:23:28 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:23:28 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:23:28 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:23:28 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:23:28 [NEW_LAYER][Blocking server] Stop
+13:23:28 [INFO][Blocking server][Stop] Stopping all clients
+
+13:23:28 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:23:28 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:23:28 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:23:28 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:23:28 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:24:03 [INITED] -------------------------------->
+13:24:03 [INFO] Log started on 2024-07-16
+
+
+13:24:03 [NEW_LAYER] Blocking server
+13:24:03 [INITED][Blocking server] Server inited
+
+13:24:03 [NEW_LAYER][Blocking server] Startup
+13:24:03 [CALLING][Blocking server][Startup] Binding...
+13:24:03 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:10 [INITED] -------------------------------->
+13:24:10 [INFO] Log started on 2024-07-16
+
+
+13:24:10 [NEW_LAYER] Blocking server
+13:24:10 [INITED][Blocking server] Server inited
+
+13:24:10 [NEW_LAYER][Blocking server] Startup
+13:24:10 [CALLING][Blocking server][Startup] Binding...
+13:24:10 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:11 [INITED] -------------------------------->
+13:24:11 [INFO] Log started on 2024-07-16
+
+
+13:24:11 [NEW_LAYER] Blocking server
+13:24:11 [INITED][Blocking server] Server inited
+
+13:24:11 [NEW_LAYER][Blocking server] Startup
+13:24:11 [CALLING][Blocking server][Startup] Binding...
+13:24:11 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:11 [INITED] -------------------------------->
+13:24:11 [INFO] Log started on 2024-07-16
+
+
+13:24:11 [NEW_LAYER] Blocking server
+13:24:11 [INITED][Blocking server] Server inited
+
+13:24:11 [NEW_LAYER][Blocking server] Startup
+13:24:11 [CALLING][Blocking server][Startup] Binding...
+13:24:11 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:11 [INITED] -------------------------------->
+13:24:11 [INFO] Log started on 2024-07-16
+
+
+13:24:11 [NEW_LAYER] Blocking server
+13:24:11 [INITED][Blocking server] Server inited
+
+13:24:11 [NEW_LAYER][Blocking server] Startup
+13:24:11 [CALLING][Blocking server][Startup] Binding...
+13:24:11 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:12 [INITED] -------------------------------->
+13:24:12 [INFO] Log started on 2024-07-16
+
+
+13:24:12 [NEW_LAYER] Blocking server
+13:24:12 [INITED][Blocking server] Server inited
+
+13:24:12 [NEW_LAYER][Blocking server] Startup
+13:24:12 [CALLING][Blocking server][Startup] Binding...
+13:24:12 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:12 [INITED] -------------------------------->
+13:24:12 [INFO] Log started on 2024-07-16
+
+
+13:24:12 [NEW_LAYER] Blocking server
+13:24:12 [INITED][Blocking server] Server inited
+
+13:24:12 [NEW_LAYER][Blocking server] Startup
+13:24:12 [CALLING][Blocking server][Startup] Binding...
+13:24:12 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:13 [INITED] -------------------------------->
+13:24:13 [INFO] Log started on 2024-07-16
+
+
+13:24:13 [NEW_LAYER] Blocking server
+13:24:13 [INITED][Blocking server] Server inited
+
+13:24:13 [NEW_LAYER][Blocking server] Startup
+13:24:13 [CALLING][Blocking server][Startup] Binding...
+13:24:13 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:13 [INITED] -------------------------------->
+13:24:13 [INFO] Log started on 2024-07-16
+
+
+13:24:13 [NEW_LAYER] Blocking server
+13:24:13 [INITED][Blocking server] Server inited
+
+13:24:13 [NEW_LAYER][Blocking server] Startup
+13:24:13 [CALLING][Blocking server][Startup] Binding...
+13:24:13 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:13 [INITED] -------------------------------->
+13:24:13 [INFO] Log started on 2024-07-16
+
+
+13:24:13 [NEW_LAYER] Blocking server
+13:24:13 [INITED][Blocking server] Server inited
+
+13:24:13 [NEW_LAYER][Blocking server] Startup
+13:24:13 [CALLING][Blocking server][Startup] Binding...
+13:24:13 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:14 [INITED] -------------------------------->
+13:24:14 [INFO] Log started on 2024-07-16
+
+
+13:24:14 [NEW_LAYER] Blocking server
+13:24:14 [INITED][Blocking server] Server inited
+
+13:24:14 [NEW_LAYER][Blocking server] Startup
+13:24:14 [CALLING][Blocking server][Startup] Binding...
+13:24:14 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:14 [INITED] -------------------------------->
+13:24:14 [INFO] Log started on 2024-07-16
+
+
+13:24:14 [NEW_LAYER] Blocking server
+13:24:14 [INITED][Blocking server] Server inited
+
+13:24:14 [NEW_LAYER][Blocking server] Startup
+13:24:14 [CALLING][Blocking server][Startup] Binding...
+13:24:14 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:15 [INITED] -------------------------------->
+13:24:15 [INFO] Log started on 2024-07-16
+
+
+13:24:15 [NEW_LAYER] Blocking server
+13:24:15 [INITED][Blocking server] Server inited
+
+13:24:15 [NEW_LAYER][Blocking server] Startup
+13:24:15 [CALLING][Blocking server][Startup] Binding...
+13:24:15 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:15 [INITED] -------------------------------->
+13:24:15 [INFO] Log started on 2024-07-16
+
+
+13:24:15 [NEW_LAYER] Blocking server
+13:24:15 [INITED][Blocking server] Server inited
+
+13:24:15 [NEW_LAYER][Blocking server] Startup
+13:24:15 [CALLING][Blocking server][Startup] Binding...
+13:24:15 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:15 [INITED] -------------------------------->
+13:24:15 [INFO] Log started on 2024-07-16
+
+
+13:24:15 [NEW_LAYER] Blocking server
+13:24:15 [INITED][Blocking server] Server inited
+
+13:24:15 [NEW_LAYER][Blocking server] Startup
+13:24:15 [CALLING][Blocking server][Startup] Binding...
+13:24:15 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:16 [INITED] -------------------------------->
+13:24:16 [INFO] Log started on 2024-07-16
+
+
+13:24:16 [NEW_LAYER] Blocking server
+13:24:16 [INITED][Blocking server] Server inited
+
+13:24:16 [NEW_LAYER][Blocking server] Startup
+13:24:16 [CALLING][Blocking server][Startup] Binding...
+13:24:16 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:16 [INITED] -------------------------------->
+13:24:16 [INFO] Log started on 2024-07-16
+
+
+13:24:16 [NEW_LAYER] Blocking server
+13:24:16 [INITED][Blocking server] Server inited
+
+13:24:16 [NEW_LAYER][Blocking server] Startup
+13:24:16 [CALLING][Blocking server][Startup] Binding...
+13:24:16 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:16 [INITED] -------------------------------->
+13:24:16 [INFO] Log started on 2024-07-16
+
+
+13:24:16 [NEW_LAYER] Blocking server
+13:24:16 [INITED][Blocking server] Server inited
+
+13:24:16 [NEW_LAYER][Blocking server] Startup
+13:24:16 [CALLING][Blocking server][Startup] Binding...
+13:24:16 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:17 [INITED] -------------------------------->
+13:24:17 [INFO] Log started on 2024-07-16
+
+
+13:24:17 [NEW_LAYER] Blocking server
+13:24:17 [INITED][Blocking server] Server inited
+
+13:24:17 [NEW_LAYER][Blocking server] Startup
+13:24:17 [CALLING][Blocking server][Startup] Binding...
+13:24:17 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:17 [INITED] -------------------------------->
+13:24:17 [INFO] Log started on 2024-07-16
+
+
+13:24:17 [NEW_LAYER] Blocking server
+13:24:17 [INITED][Blocking server] Server inited
+
+13:24:17 [NEW_LAYER][Blocking server] Startup
+13:24:17 [CALLING][Blocking server][Startup] Binding...
+13:24:17 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:18 [INITED] -------------------------------->
+13:24:18 [INFO] Log started on 2024-07-16
+
+
+13:24:18 [NEW_LAYER] Blocking server
+13:24:18 [INITED][Blocking server] Server inited
+
+13:24:18 [NEW_LAYER][Blocking server] Startup
+13:24:18 [CALLING][Blocking server][Startup] Binding...
+13:24:18 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:18 [INITED] -------------------------------->
+13:24:18 [INFO] Log started on 2024-07-16
+
+
+13:24:18 [NEW_LAYER] Blocking server
+13:24:18 [INITED][Blocking server] Server inited
+
+13:24:18 [NEW_LAYER][Blocking server] Startup
+13:24:18 [CALLING][Blocking server][Startup] Binding...
+13:24:18 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:19 [INITED] -------------------------------->
+13:24:19 [INFO] Log started on 2024-07-16
+
+
+13:24:19 [NEW_LAYER] Blocking server
+13:24:19 [INITED][Blocking server] Server inited
+
+13:24:19 [NEW_LAYER][Blocking server] Startup
+13:24:19 [CALLING][Blocking server][Startup] Binding...
+13:24:19 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:19 [INITED] -------------------------------->
+13:24:19 [INFO] Log started on 2024-07-16
+
+
+13:24:19 [NEW_LAYER] Blocking server
+13:24:19 [INITED][Blocking server] Server inited
+
+13:24:19 [NEW_LAYER][Blocking server] Startup
+13:24:19 [CALLING][Blocking server][Startup] Binding...
+13:24:19 [FATAL][Blocking server][Startup] Can not bind server to requested address: 127.0.0.1:9000, because: Raw method failed
+13:24:37 [INITED] -------------------------------->
+13:24:37 [INFO] Log started on 2024-07-16
+
+
+13:24:37 [NEW_LAYER] Blocking server
+13:24:37 [INITED][Blocking server] Server inited
+
+13:24:37 [NEW_LAYER][Blocking server] Startup
+13:24:37 [CALLING][Blocking server][Startup] Binding...
+13:24:37 [INFO][Blocking server][Startup] Success!
+13:24:37 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:24:37 [INFO][Blocking server][Startup] Success!
+13:24:37 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:24:37 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:24:37 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:24:52 [INITED] -------------------------------->
+13:24:52 [INFO] Log started on 2024-07-16
+
+
+13:24:52 [NEW_LAYER] Blocking server
+13:24:52 [INITED][Blocking server] Server inited
+
+13:24:52 [NEW_LAYER][Blocking server] Startup
+13:24:52 [CALLING][Blocking server][Startup] Binding...
+13:24:52 [INFO][Blocking server][Startup] Success!
+13:24:52 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:24:52 [INFO][Blocking server][Startup] Success!
+13:24:52 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:24:52 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:24:52 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:24:54 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:46632 connected
+13:24:54 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:24:54 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:24:54 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:24:54 [NEW_LAYER][Blocking server] Runiter
+13:24:54 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:24:54 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:24:54 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:24:54 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:24:54 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:24:54 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:24:54 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:24:54 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:24:54 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:24:54 [NEW_LAYER][Blocking server] Stop
+13:24:54 [INFO][Blocking server][Stop] Stopping all clients
+
+13:24:54 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:24:54 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:24:54 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:24:54 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:24:54 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:26:39 [INITED] -------------------------------->
+13:26:39 [INFO] Log started on 2024-07-16
+
+
+13:26:39 [NEW_LAYER] Blocking server
+13:26:39 [INITED][Blocking server] Server inited
+
+13:26:39 [NEW_LAYER][Blocking server] Startup
+13:26:39 [CALLING][Blocking server][Startup] Binding...
+13:26:39 [INFO][Blocking server][Startup] Success!
+13:26:39 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:26:39 [INFO][Blocking server][Startup] Success!
+13:26:39 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:26:39 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:26:39 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:26:42 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:40950 connected
+13:26:42 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:26:42 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:26:42 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:26:42 [NEW_LAYER][Blocking server] Runiter
+13:26:42 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:26:42 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:26:42 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:26:42 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:26:42 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:26:42 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:26:42 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:26:42 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:26:42 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:26:42 [NEW_LAYER][Blocking server] Stop
+13:26:42 [INFO][Blocking server][Stop] Stopping all clients
+
+13:26:42 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:26:42 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:26:42 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:26:42 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:26:42 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:28:10 [INITED] -------------------------------->
+13:28:10 [INFO] Log started on 2024-07-16
+
+
+13:28:10 [NEW_LAYER] Blocking server
+13:28:10 [INITED][Blocking server] Server inited
+
+13:28:10 [NEW_LAYER][Blocking server] Startup
+13:28:10 [CALLING][Blocking server][Startup] Binding...
+13:28:10 [INFO][Blocking server][Startup] Success!
+13:28:10 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:28:10 [INFO][Blocking server][Startup] Success!
+13:28:10 [INITED][Blocking server][Startup] Start to accepting a clients
+
+13:28:10 [NEW_LAYER][Blocking server][Startup] Acception cycle
+13:28:10 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:28:12 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:42280 connected
+13:28:12 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+
+13:28:12 [LAYER_POPPED][Blocking server][Startup][Acception cycle] Acception cycle
+
+13:28:12 [LAYER_POPPED][Blocking server][Startup] Startup
+
+13:28:12 [NEW_LAYER][Blocking server] Runiter
+13:28:12 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:28:12 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+
+13:28:12 [NEW_LAYER][Blocking server][Runiter] Cycle
+13:28:12 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:28:12 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:28:12 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:28:12 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+
+13:28:12 [LAYER_POPPED][Blocking server][Runiter][Cycle] Cycle
+
+13:28:12 [LAYER_POPPED][Blocking server][Runiter] Runiter
+
+13:28:12 [NEW_LAYER][Blocking server] Stop
+13:28:12 [INFO][Blocking server][Stop] Stopping all clients
+
+13:28:12 [NEW_LAYER][Blocking server][Stop] Force diconnect
+13:28:12 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:28:12 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:28:12 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+
+13:28:12 [LAYER_POPPED][Blocking server][Stop][Force diconnect] Force diconnect
+13:28:12 [INFO][Blocking server][Stop] Closing main socket
+
+13:28:12 [LAYER_POPPED][Blocking server][Stop] Stop
+
+13:28:12 [LAYER_POPPED][Blocking server] Blocking server
+13:28:12 [INFO] Server stopped
+13:30:38 [INITED] -------------------------------->
+13:30:38 [INFO] Log started on 2024-07-16
+
+13:30:38 [INITED][Blocking server] Server inited
+13:30:38 [CALLING][Blocking server][Startup] Binding...
+13:30:38 [INFO][Blocking server][Startup] Success!
+13:30:38 [CALLING][Blocking server][Startup] Start to listen clients (1)
+13:30:38 [INFO][Blocking server][Startup] Success!
+13:30:38 [INITED][Blocking server][Startup] Start to accepting a clients
+13:30:38 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+13:30:41 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:60142 connected
+13:30:41 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+13:30:41 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+13:30:41 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+13:30:41 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+13:30:41 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+13:30:41 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+13:30:41 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+13:30:41 [INFO][Blocking server][Stop] Stopping all clients
+13:30:41 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+13:30:41 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+13:30:41 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+13:30:41 [INFO][Blocking server][Stop] Closing main socket
+13:30:41 [INFO] Server stopped
+16:35:07 [INITED] -------------------------------->
+16:35:07 [INFO] Log started on 2024-07-16
+
+16:35:07 [INITED][Blocking server] Server inited
+16:35:07 [CALLING][Blocking server][Startup] Binding...
+16:35:07 [INFO][Blocking server][Startup] Success!
+16:35:07 [CALLING][Blocking server][Startup] Start to listen clients (1)
+16:35:07 [INFO][Blocking server][Startup] Success!
+16:35:07 [INITED][Blocking server][Startup] Start to accepting a clients
+16:35:07 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+22:20:51 [INITED] -------------------------------->
+22:20:51 [INFO] Log started on 2024-07-16
+
+22:20:51 [INITED][Blocking server] Server inited
+22:20:51 [CALLING][Blocking server][Startup] Binding...
+22:20:51 [INFO][Blocking server][Startup] Success!
+22:20:51 [CALLING][Blocking server][Startup] Start to listen clients (1)
+22:20:51 [INFO][Blocking server][Startup] Success!
+22:20:51 [INITED][Blocking server][Startup] Start to accepting a clients
+22:20:51 [CALLING][Blocking server][Startup][Acception cycle] Trying to accept a client #0
+22:20:55 [INFO][Blocking server][Startup][Acception cycle] Success! Client with address 127.0.0.1:42886 connected
+22:20:55 [CALLING][Blocking server][Startup][Acception cycle] Calling callback [onClientConnected]
+22:20:55 [INITED][Blocking server][Runiter] Starting for-cycle for all clients
+22:20:55 [CALLING][Blocking server][Runiter] Starting Cycle for client #0
+22:20:55 [INITED][Blocking server][Runiter][Cycle] Trying to get a reference to client #0
+22:20:55 [CALLING][Blocking server][Runiter][Cycle] Trying to receive a request from client #0
+22:20:55 [CALLING][Blocking server][Runiter][Cycle] Calling callback [onClientMessage]
+22:20:55 [INFO][Blocking server][Runiter][Cycle] Sending response to client #0
+22:20:55 [INFO][Blocking server][Stop] Stopping all clients
+22:20:55 [CALLING][Blocking server][Stop][Force diconnect] Calling callback [onClientForcefullyDisconnected]
+22:20:55 [INFO][Blocking server][Stop][Force diconnect] Closing socket and cleaning client map
+22:20:55 [INFO][Blocking server][Stop][Force diconnect] Client 0 is fully f-disconnected
+22:20:55 [INFO][Blocking server][Stop] Closing main socket
+22:20:55 [INFO] Server stopped

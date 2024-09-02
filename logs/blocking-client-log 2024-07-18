@@ -1,0 +1,52 @@
+18:16:46 [INITED] -------------------------------->
+18:16:46 [INFO] Log started on 2024-07-18
+
+18:16:46 [INITED] Blocking client
+18:16:46 [CALLING][Blocking client][Connect] Trying to connect...
+18:16:46 [INFO][Blocking client][Connect] Success!
+18:16:46 [INFO][Blocking client] Performing cycle...
+18:16:46 [CALLING][Blocking client][Sending] Trying to send data to the server...
+18:16:46 [INFO][Blocking client][Sending] Success!
+18:16:46 [CALLING][Blocking client][Receieving] Trying to receive data from the server...
+18:16:46 [INFO][Blocking client][Receieving] Success!
+18:16:46 [INFO] Client stopped
+18:17:42 [INITED] -------------------------------->
+18:17:42 [INFO] Log started on 2024-07-18
+
+18:17:42 [INITED] Blocking client
+18:17:42 [CALLING][Blocking client][Connect] Trying to connect...
+18:18:08 [INITED] -------------------------------->
+18:18:08 [INFO] Log started on 2024-07-18
+
+18:18:08 [INITED] Blocking client
+18:18:08 [CALLING][Blocking client][Connect] Trying to connect...
+18:18:25 [INITED] -------------------------------->
+18:18:25 [INFO] Log started on 2024-07-18
+
+18:18:25 [INITED] Blocking client
+18:18:25 [CALLING][Blocking client][Connect] Trying to connect...
+18:18:25 [INFO][Blocking client][Connect] Success!
+18:18:25 [INFO][Blocking client] Performing cycle...
+18:18:25 [CALLING][Blocking client][Sending] Trying to send data to the server...
+18:18:25 [INFO][Blocking client][Sending] Success!
+18:18:25 [CALLING][Blocking client][Receieving] Trying to receive data from the server...
+18:18:25 [INFO][Blocking client][Receieving] Success!
+18:18:25 [INFO] Client stopped
+18:24:10 [INITED] -------------------------------->
+18:24:10 [INFO] Log started on 2024-07-18
+
+18:24:10 [INITED] Blocking client
+18:24:10 [CALLING][Blocking client][Connect] Trying to connect...
+18:24:10 [INFO][Blocking client][Connect] Success!
+18:24:10 [INFO][Blocking client] Performing cycle...
+18:24:10 [CALLING][Blocking client][Sending] Trying to send data to the server...
+18:24:10 [INFO][Blocking client][Sending] Success!
+18:24:10 [CALLING][Blocking client][Receieving] Trying to receive data from the server...
+18:24:10 [INFO][Blocking client][Receieving] Success!
+18:24:10 [INFO] Client stopped
+18:24:44 [INITED] -------------------------------->
+18:24:44 [INFO] Log started on 2024-07-18
+
+18:24:44 [INITED] Blocking client
+18:24:44 [CALLING][Blocking client][Connect] Trying to connect...
+18:24:44 [FATAL][Blocking client][Connect] Can not connect to the server (100.78.115.139:9000), because: Raw method failed

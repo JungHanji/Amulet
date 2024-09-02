@@ -1,0 +1,27 @@
+13:27:58 [INITED] -------------------------------->
+13:27:58 [INFO] Log started on 2024-07-17
+
+13:27:58 [INITED] Detached server
+13:27:58 [CALLING][Detached server][Startup] Binding...
+13:27:58 [INFO][Detached server][Startup] Success!
+13:27:58 [CALLING][Detached server][Startup] Start to listen clients (3)
+13:27:58 [INFO][Detached server][Startup] Success!
+13:27:58 [INITED][Detached server][Startup] Start to accepting a clients
+13:27:58 [CALLING][Detached server][Startup][Acception cycle] Ini-calling a new acception thread for a client #0
+13:27:58 [INFO][Detached server][Startup][Acception cycle] Inited and call an acception thread for the client
+13:27:58 [CALLING][Detached server][Startup][Acception cycle] Ini-calling a new acception thread for a client #1
+13:27:58 [INFO][Detached server][Startup][Acception cycle] Inited and call an acception thread for the client
+13:27:58 [CALLING][Detached server][Startup][Acception cycle] Ini-calling a new acception thread for a client #2
+13:27:58 [INFO][Detached server][Startup][Acception cycle] Inited and call an acception thread for the client
+13:28:18 [INFO][Detached server][Stop] Stopping all clients
+13:28:18 [CALLING][Detached server][Stop][Force disconnect] Calling callback [onClientForcefullyDisconnected]
+13:28:18 [INFO][Detached server][Stop][Force disconnect] Closing socket and cleaning client map
+13:28:18 [INFO][Detached server][Stop][Force disconnect] Client 0 is fully f-disconnected
+13:28:18 [CALLING][Detached server][Stop][Force disconnect] Calling callback [onClientForcefullyDisconnected]
+13:28:18 [INFO][Detached server][Stop][Force disconnect] Closing socket and cleaning client map
+13:28:18 [INFO][Detached server][Stop][Force disconnect] Client 1 is fully f-disconnected
+13:28:18 [CALLING][Detached server][Stop][Force disconnect] Calling callback [onClientForcefullyDisconnected]
+13:28:18 [INFO][Detached server][Stop][Force disconnect] Closing socket and cleaning client map
+13:28:18 [INFO][Detached server][Stop][Force disconnect] Client 2 is fully f-disconnected
+13:28:18 [INFO][Detached server][Stop] Closing main socket
+13:28:18 [INFO] Server stopped

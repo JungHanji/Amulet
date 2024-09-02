@@ -1,0 +1,38 @@
+13:14:30 [INITED] -------------------------------->
+13:14:30 [INFO] Log started on 2024-07-17
+
+13:14:30 [INITED] Async server
+13:14:30 [CALLING][Async server][Startup] Binding...
+13:14:42 [INFO][Async server][Startup] Success!
+13:14:42 [CALLING][Async server][Startup] Start to listen clients (3)
+13:14:42 [INFO][Async server][Startup] Success!
+13:14:42 [INITED][Async server][Startup] Start to accepting a clients
+13:14:42 [CALLING][Async server][Startup][Acception cycle] Ini-calling a new acception thread for a client #0
+13:14:42 [INFO][Async server][Startup][Acception cycle] Inited and call an acception thread for the client
+13:14:42 [CALLING][Async server][Startup][Acception cycle] Ini-calling a new acception thread for a client #1
+13:14:42 [INFO][Async server][Startup][Acception cycle] Inited and call an acception thread for the client
+13:14:42 [CALLING][Async server][Startup][Acception cycle] Ini-calling a new acception thread for a client #2
+13:14:42 [INFO][Async server][Startup][Acception cycle] Inited and call an acception thread for the client
+13:14:49 [INITED][Async server][Runiter] Starting for-cycle to get keys for all clients 
+13:14:49 [INITED][Async server][Runiter] Starting for-cycle to procceed for all clients
+13:14:49 [CALLING][Async server][Runiter][Cycle for-cycle] Ini-calling a new thread for 1 cycleing a client #0
+13:14:49 [INITED][Async server][Runiter][Cycle for-cycle] Inited and called a cycle-thread for the client
+13:14:49 [CALLING][Async server][Runiter][Cycle for-cycle] Ini-calling a new thread for 1 cycleing a client #1
+13:14:49 [CALLING][Async server][Runiter][Cycle for-cycle][Cycle] Trying to receive a request from client #0
+13:14:49 [INITED][Async server][Runiter][Cycle for-cycle][Cycle] Inited and called a cycle-thread for the client
+13:14:49 [CALLING][Async server][Runiter][Cycle for-cycle][Cycle] Ini-calling a new thread for 1 cycleing a client #2
+13:14:49 [INITED][Async server][Runiter][Cycle for-cycle] Inited and called a cycle-thread for the client
+13:14:49 [CALLING][Async server][Cycle] Trying to receive a request from client #1
+13:14:49 [CALLING][Async server][Cycle] Trying to receive a request from client #2
+13:14:49 [INFO][Async server][Stop] Stopping all clients
+13:14:49 [CALLING][Async server][Stop][Force disconnect] Calling callback [onClientForcefullyDisconnected]
+13:14:49 [INFO][Async server][Stop][Force disconnect] Closing socket and cleaning client map
+13:14:49 [INFO][Async server][Stop][Force disconnect] Client 0 is fully f-disconnected
+13:14:49 [CALLING][Async server][Stop][Force disconnect] Calling callback [onClientForcefullyDisconnected]
+13:14:49 [INFO][Async server][Stop][Force disconnect] Closing socket and cleaning client map
+13:14:49 [INFO][Async server][Stop][Force disconnect] Client 1 is fully f-disconnected
+13:14:49 [CALLING][Async server][Stop][Force disconnect] Calling callback [onClientForcefullyDisconnected]
+13:14:49 [INFO][Async server][Stop][Force disconnect] Closing socket and cleaning client map
+13:14:49 [INFO][Async server][Stop][Force disconnect] Client 2 is fully f-disconnected
+13:14:49 [INFO][Async server][Stop] Closing main socket
+13:14:49 [INFO] Server stopped
